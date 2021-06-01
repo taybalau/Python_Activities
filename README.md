@@ -1,5 +1,5 @@
-# PythonExercises
- My first repository on GitHub for simple Python exercises.
+# PythonExercises 🐍
+ My first repository on GitHub for simple Python exercises. 😁
 # Contents
 1) Sequential structures
 2) Decision structures
