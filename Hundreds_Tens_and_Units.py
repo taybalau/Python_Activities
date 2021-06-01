@@ -7,7 +7,7 @@ num1 = None
 while True:
     try:
         num1 = int(num)
-    except Exception:
+    except:
         print('Please enter a numeric value!')
         num = input('Enter an integer, positive and less than 1000: ')
         continue
