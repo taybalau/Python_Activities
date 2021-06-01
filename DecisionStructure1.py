@@ -1,5 +1,5 @@
 # if-else-elif exercise: A program that asks the user for the day,
-# month and year of a date and determines the next one.
+# month and year and determines the next date.
 
 dd = input('Enter a day: ')
 mm = input('Enter a month: ')
