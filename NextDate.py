@@ -1,4 +1,4 @@
-# if-else-elif exercise: A program that asks the user for the day,
+# if-else-elif exercise: A program that asks the user for a day,
 # month and year and determines the next date.
 
 dd = input('Enter a day: ')
