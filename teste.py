@@ -67,7 +67,7 @@ sol = [0]*n
 
 # Parâmetros
 semente = 8365
-np.random.randint(semente)
+np.random.seed(semente)
 
 
 # Decisão inicial
@@ -83,7 +83,7 @@ sol, fo = busca(n, sol, cap, beneficio, peso)
 
 sol = list(sol)
 
-# Restrições
+# Busca Completa
 while True:
     if fo > 0:
         g = sol.index(0)
