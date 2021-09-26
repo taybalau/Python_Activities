@@ -5,3 +5,4 @@
 2) Decision structures
 3) Loop structures
 4) Python Collections
+5) Object-oriented programming
